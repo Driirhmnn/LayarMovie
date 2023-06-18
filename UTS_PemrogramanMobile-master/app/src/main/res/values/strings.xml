@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayarMovie</string>
+    <string name="film_name">Nama Film</string>
+    <string name="film_years">Tahun Terbit</string>
+    <string name="film_genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
